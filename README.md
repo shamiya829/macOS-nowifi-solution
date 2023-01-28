@@ -2,7 +2,9 @@
 
 ## 1) Simple easy way that no other article I've found talked about
 
-You'll notice that once the wifi icon is gone, no matter how many times you restart, it still doesn't show up. The simple solution here is that instead of of waiting to directly enter the startup disk, press the power button once, then hold down until it says "Loading startup options." After that, go to the "Options" wheel and you'll see the wifi icon on the top right.
+You'll notice that once the wifi icon is gone, no matter how many times you restart, it still doesn't show up. 
+
+The simple solution here is that instead of of waiting to directly enter the startup disk, press the power button once, then hold down until it says "Loading startup options." After that, go to the "Options" wheel and you'll see the wifi icon on the top right.
 
 After you connect to wifi, you can just go back to the startup disk and install macOS Monterey. It'll usually say it takes 3 hours to install, but it is likely quicker and it really just depends on your wifi and how much your computer likes you, just be patient and wait...
 
